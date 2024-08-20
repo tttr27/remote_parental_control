@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88944840767",
+    "project_id": "remoteparentalcontrol-3fb74",
+    "storage_bucket": "remoteparentalcontrol-3fb74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88944840767:android:f3da0ebdfad4e74711a88a",
+        "android_client_info": {
+          "package_name": "com.example.remote_parental_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk1g678BjYAg8A4rob6FAbC1wbaBlC8kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
